@@ -14,4 +14,4 @@ My First Repository
 - [ ] Create a JavsScript file
 - [ ] Build a personal website
 
-[google](https://www.google.com)
+View my current website [Here](https://maraisel.github.io/MyFirstRepo/)
